@@ -1,5 +1,5 @@
 GitHub connector read/write verification
 Test date: 2026-10-01
 Test marker: dot-rw-20261001
-Version: 1
-Status: Created
+Version: 2
+Status: Updated
